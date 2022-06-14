@@ -1,0 +1,24 @@
+.active {
+    /* border-bottom: 5px solid white; */
+    font-weight: bold;
+    color: white;
+    border-radius: 100px;
+    /* height: 30px; */
+    /* margin-top: 5px; */
+    background-color: white;
+    width: 200px;
+    text-align: center;
+}
+.icons-hapus{
+    border: 1px solid lightcoral;
+    color: red;
+    padding: 10px;
+    border-radius: 100px;
+}
+.icons-edit{
+    border: 1px solid lightblue;
+    color: lightblue;
+    background-color: #0d6efd;
+    padding: 10px;
+    border-radius: 100px;
+}
